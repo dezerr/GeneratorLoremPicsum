@@ -1,5 +1,5 @@
 # It's a generator oft Lorem Picsum
 
-# Using VueJs
+# Using VueJs ✅
 
 ## Credit : https://picsum.photos/
